@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/answers.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce/pos_backoffice/backoffice-core/src/main/java/com/marks/pos/backoffice/core/service/calculation/processor/SkippedItemEntryProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce/pos_backoffice/backoffice-core/src/main/resources/db/backoffice/data/permissions/group_resource_access_actual.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce/pos_backoffice/backoffice-core/src/main/resources/db/backoffice/data/permissions/translation_workgroup_actual.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce/pos_backoffice/backoffice-core/src/main/resources/db/backoffice/data/permissions/workgroup_actual.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ecommerce/pos_backoffice/backoffice-core/src/main/resources/db/backoffice/migrations/PopulateWorkgroupTranslations.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
